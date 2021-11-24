@@ -1,6 +1,6 @@
 # Surge Price Prediction
 
-This is the Surge Price Classification Project, which uses Machine Learning Models to analyse the price.
+This is the Surge Price Classification Project, which uses Machine Learning Models to analyse the surge price.
 
 ### Models Used
 
